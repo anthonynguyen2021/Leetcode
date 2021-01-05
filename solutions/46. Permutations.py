@@ -1,4 +1,6 @@
 class Solution:
+    # T(n) = O(n n!)
+    # S(n) = O(n n!)
     def permute(self, nums: List[int]) -> List[List[int]]:
         permutation = []
         return self.helperPermute(nums, permutation, 0)
