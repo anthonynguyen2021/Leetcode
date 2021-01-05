@@ -2,6 +2,8 @@ class Solution:
     # Idea: Seach each row. If it's not in a row by checking first and last element, keep going.
     # If the first element is larger than the target, return False as the rest won't have the target.
     # If the target is in the row, use binary search. 
+    # T(n) = O(m * logn)
+    # S(n) = O(1)
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         found = False
         for idx in range(len(matrix)):
