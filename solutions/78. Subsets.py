@@ -1,8 +1,8 @@
 class Solution:
+    # T(n) = O(n 2^n)
+    # S(n) = O(n 2^n)
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # Time = O(n 2^n)
-        # Space = O(n 2^n)
-        powerSet = [[]]
+        subsets = [[]]
         for val in nums:
-            powerSet += [[val] + elemSet for elemSet in powerSet]
-        return powerSet 
+            subsets += [[val] + item for item in subsets]  # The order of list concatentation item + [val] is important 
+        return subsets
