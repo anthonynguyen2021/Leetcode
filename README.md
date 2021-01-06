@@ -10,7 +10,7 @@
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Python3](./solutions/46.%20Permutations.py)|36 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python3](./solutions/53.%20Maximum%20Subarray.py)|52 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python3](./solutions/74.%20Search%20a%202D%20Matrix.py)|44 ms|
-|78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|36 ms|
+|78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|28 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python3](./solutions/226.%20Invert%20Binary%20Tree.py)|32 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python3](./solutions/240.%20Search%20a%202D%20Matrix%20II.py)|156 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python3](./solutions/392.%20Is%20Subsequence.py)|32 ms|
