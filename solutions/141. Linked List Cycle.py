@@ -13,6 +13,8 @@ class Solution:
         # Otherwise, advance slow by 1 and fast by 2. 
         if not head:
             return False
+        # We move the fast pointer by one before initializing the while loop. Even though the later steps of fast is advanced by two, here just advancing by 1 is fine.
+        # The while loop breaks mean that there's a cycle. If we return within the loop, we don't have a cycle. 
         slow = head
         fast = head.next
         while fast != slow:
