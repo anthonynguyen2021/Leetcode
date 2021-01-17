@@ -4,6 +4,8 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+# Time = O(n)
+# Space = O(1)
     def reverseList(self, head: ListNode) -> ListNode:
         prev = None 
         curr = head
