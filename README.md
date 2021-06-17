@@ -34,3 +34,4 @@
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python3](./solutions/392.%20Is%20Subsequence.py)|32 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python3](./solutions/509.%20Fibonacci%20Number.py)|28 ms|
 |617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python3](./solutions/617.%20Merge%20Two%20Binary%20Trees.py)|88 ms|
+|994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python3](./solutions/994.%20Rotting%20Oranges.py)|48 ms|
