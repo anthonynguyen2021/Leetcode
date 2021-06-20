@@ -12,6 +12,7 @@
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python3](./solutions/53.%20Maximum%20Subarray.py)|52 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python3](./solutions/54.%20Spiral%20Matrix.py)|32 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|88 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python3](./solutions/62.%20Unique%20Paths.py)|40 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python3](./solutions/74.%20Search%20a%202D%20Matrix.py)|44 ms|
 |77|[ Combinations](https://leetcode.com/problems/combinations/)|[Python3](./solutions/77.%20Combinations.py)|544 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|28 ms|
